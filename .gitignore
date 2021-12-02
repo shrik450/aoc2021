@@ -1,0 +1,8 @@
+# The roc compiler. I'm symlinking it here for convenience.
+roc
+
+# The platform I'm using. Ditto.
+platform
+
+# The solutione excutable. I'll be naming all my solutions "solution.roc"
+solution
